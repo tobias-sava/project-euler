@@ -4,5 +4,10 @@
 
 # What is the 10001st prime number?
 
-def func(x):
-    pass
+# Note to self:
+
+# - Init count and n vars
+# - Use while loop (while count < 10001):
+# - Check if n is prime
+# - If prime increment count and n
+# - If not prime increment n
