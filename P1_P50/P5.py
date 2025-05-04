@@ -16,7 +16,7 @@ def gcd(a, b):
 
 def lcm(a, b):
     """
-    Computing Least Common Multiple (LCM) using GCD"""
+    Computing Least Common Multiple (LCM) using GCD """
     return a * b // gcd(a, b)
 
 def smallest_multiple(limit):
