@@ -24,7 +24,7 @@ def smallest_multiple(limit):
     Function that finds the smallest number divisable by all numbers
     from 1 to 'limit'. """
 
-    result = 1 # init result var
+    result = 1 # init result var 
 
     for i in range(2, limit + 1): # loop through 2 to limit
         result = lcm(result, i) # update result with lcm of current result and i

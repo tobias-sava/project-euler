@@ -1,4 +1,4 @@
-# Project Euler
+# Project Euler (First 100 Problems)
 
 Project Euler is a series of problems that require more than just mathematical insights to solve. A typical problem might involve discovering patterns, optimizing algorithms, or implementing clever logic in code.
 
